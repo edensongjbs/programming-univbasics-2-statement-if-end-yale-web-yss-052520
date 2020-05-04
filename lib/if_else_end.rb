@@ -1,6 +1,6 @@
 # Write your solution here
 
-if Time.now.to_i.Even?
+if Time.now.to_i.even?
   puts "Even!"
 else 
   puts "Odd"
